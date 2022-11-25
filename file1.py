@@ -1,3 +1,4 @@
 print("hello baji")
 hiii
-where are you from
+where are you
+how r u
